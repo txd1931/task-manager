@@ -1,0 +1,15 @@
+bin/
+target/
+build/
+.gradle/
+.settings/
+
+*.class
+*.log
+*.tmp
+
+.DS_Store
+Thumbs.db
+
+taskmanager.json
+.env
